@@ -39,7 +39,7 @@ const hu: Content = {
     { label: 'Kapcsolat', href: '#contact' },
   ],
   hero: {
-    eyebrow: 'Fordító · Tolmács · [Teljes Név]',
+    eyebrow: 'Fordító · Tolmács · Zoltan Hubanov-Dimitrov',
     lines: ['Szavak,', 'amik', 'átérnek.'],
     quote: '„Pontos, gördülékeny fordítás – hogy az üzeneted ugyanúgy hasson minden nyelven.”',
     primaryCta: 'Árajánlatot kérek',
@@ -54,7 +54,7 @@ const hu: Content = {
   ],
   about: {
     label: 'Rólam',
-    title: '[Teljes Név]',
+    title: 'Zoltan Hubanov-Dimitrov',
     paragraphs: [
       '[Rövid bemutatkozás: ki vagy, honnan jössz, mióta foglalkozol fordítással.]',
       '[Miben vagy különösen erős: szakterületek, ügyféltípusok, munkamódszer.]',
@@ -139,7 +139,7 @@ const en: Content = {
     { label: 'Contact', href: '#contact' },
   ],
   hero: {
-    eyebrow: 'Translator · Interpreter · [Full Name]',
+    eyebrow: 'Translator · Interpreter · Zoltan Hubanov-Dimitrov',
     lines: ['Words', 'that', 'carry over.'],
     quote: '"Accurate, natural translation – so your message lands the same way in every language."',
     primaryCta: 'Get a quote',
@@ -154,7 +154,7 @@ const en: Content = {
   ],
   about: {
     label: 'About',
-    title: '[Full Name]',
+    title: 'Zoltan Hubanov-Dimitrov',
     paragraphs: [
       '[Short introduction: who you are, where you come from, how long you have been translating.]',
       '[What you are especially good at: fields, client types, way of working.]',
@@ -239,7 +239,7 @@ const es: Content = {
     { label: 'Contacto', href: '#contact' },
   ],
   hero: {
-    eyebrow: 'Traductora · Intérprete · [Nombre Completo]',
+    eyebrow: 'Traducción · Interpretación · Zoltan Hubanov-Dimitrov',
     lines: ['Palabras', 'que', 'llegan.'],
     quote: '«Traducciones precisas y naturales, para que tu mensaje tenga el mismo efecto en cada idioma.»',
     primaryCta: 'Pedir presupuesto',
@@ -254,7 +254,7 @@ const es: Content = {
   ],
   about: {
     label: 'Sobre mí',
-    title: '[Nombre Completo]',
+    title: 'Zoltan Hubanov-Dimitrov',
     paragraphs: [
       '[Breve presentación: quién eres, de dónde vienes, desde cuándo traduces.]',
       '[En qué destacas: especialidades, tipos de clientes, forma de trabajar.]',
@@ -296,8 +296,8 @@ const es: Content = {
     items: [
       { period: '[2018 – 2020]', title: '[Máster en Traducción e Interpretación]', place: '[Universidad]', text: '[Especialidad, temas clave, tesis.]' },
       { period: '[2014 – 2018]', title: '[Grado en Filología Inglesa / Hispánica]', place: '[Universidad]', text: '[Breve descripción.]' },
-      { period: '[2020 – hoy]', title: '[Traductora autónoma]', place: '[Empresa propia]', text: '[Clientes y proyectos típicos.]' },
-      { period: '[Año]', title: '[Examen de idioma / Certificado]', place: '[Entidad emisora]', text: '[p. ej. examen C2, título de traductora jurada.]' },
+      { period: '[2020 – hoy]', title: '[Traducción por cuenta propia]', place: '[Empresa propia]', text: '[Clientes y proyectos típicos.]' },
+      { period: '[Año]', title: '[Examen de idioma / Certificado]', place: '[Entidad emisora]', text: '[p. ej. examen C2, título de traducción jurada.]' },
     ],
   },
   gallery: {
