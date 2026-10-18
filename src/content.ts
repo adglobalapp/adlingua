@@ -126,7 +126,7 @@ const hu: Content = {
   },
   footer: {
     tags: ['Fordítás', 'Tolmácsolás', 'Lektorálás'],
-    rights: 'Minden jog fenntartva.',
+    registered: 'Az Egyesült Királyságban bejegyzett cég.', rights: 'Minden jog fenntartva.',
   },
 };
 
@@ -226,7 +226,7 @@ const en: Content = {
   },
   footer: {
     tags: ['Translation', 'Interpreting', 'Proofreading'],
-    rights: 'All rights reserved.',
+    registered: 'Registered in the UK.', rights: 'All rights reserved.',
   },
 };
 
@@ -326,7 +326,7 @@ const es: Content = {
   },
   footer: {
     tags: ['Traducción', 'Interpretación', 'Revisión'],
-    rights: 'Todos los derechos reservados.',
+    registered: 'Registrada en el Reino Unido.', rights: 'Todos los derechos reservados.',
   },
 };
 
